@@ -1,5 +1,5 @@
 <h1 align="center">VBA Insurance Internal Dev</h1>
-<h3 align="center">Internal VA Application and resource develop in support of LIPAS and EIN Teams</h3>
+<h3 align="center">Internal VA application and resource development in support of LIPAS and EIN Teams</h3>
 
 
 
